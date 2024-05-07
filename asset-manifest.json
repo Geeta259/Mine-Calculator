@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mine-Calculator/static/css/main.0da8a365.css",
+    "main.js": "/Mine-Calculator/static/js/main.d6c10226.js",
+    "static/js/787.1dee5025.chunk.js": "/Mine-Calculator/static/js/787.1dee5025.chunk.js",
+    "static/media/digital-7.ttf": "/Mine-Calculator/static/media/digital-7.e4f0d914940cef82362b.ttf",
+    "index.html": "/Mine-Calculator/index.html",
+    "main.0da8a365.css.map": "/Mine-Calculator/static/css/main.0da8a365.css.map",
+    "main.d6c10226.js.map": "/Mine-Calculator/static/js/main.d6c10226.js.map",
+    "787.1dee5025.chunk.js.map": "/Mine-Calculator/static/js/787.1dee5025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da8a365.css",
+    "static/js/main.d6c10226.js"
+  ]
+}
